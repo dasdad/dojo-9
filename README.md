@@ -48,7 +48,7 @@ Retrospectiva
 * Rede da AppleTV. :heavy_plus_sign::heavy_plus_sign:
 * `.5 != 0.5` em Ruby.
 
-### Sugestão
+### Positivo
 
 * Ruby. :heavy_plus_sign::heavy_plus_sign::heavy_plus_sign:
 * Ignorar os prisioneiros.
